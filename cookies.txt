@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+allexrobin.systeme.io	TRUE	/	FALSE	1999999999	user	n0p9snjrqfid4hd0s3s937l5km
+allexrobin.systeme.io	TRUE	/	FALSE	1999999999	v	fa6924c661fa7eef7dbd73dfa5161ba7f6c574c1bcbefa7872930601798d01d8
+allexrobin.systeme.io	TRUE	/	FALSE	1999999999	samesite	none
+
